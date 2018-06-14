@@ -1,0 +1,60 @@
+body {
+	background-image: url(../images/bay.jpg) ;
+	background-size: cover;
+	background-color: black;
+}
+
+.header {
+	background-color: sienna;
+	color: white;
+	font-family: cursive;
+	padding: 30px;
+	margin-bottom: 20px;
+	width: 50%;
+	text-align: center;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+
+.panel-body {
+	background-color: sienna;
+	
+
+	
+}
+.panel-title {
+	background-color: red;
+	padding: 10px;
+	color: white;
+}
+
+.score {
+	height: 310px;
+	
+}
+
+h4 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+aside {
+	margin-top: -100px;
+	height: 500px;
+}
+
+.instruct {
+	background-color: sienna;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 13px;
+	margin-top: 5px;
+	margin-left: 275px;
+
+}
+
+.score {
+	margin-top: 307px;
+}
+
